@@ -1,3 +1,8 @@
+#To login please type for:
+username : "fakeuser"
+password : "fakepassword"
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
