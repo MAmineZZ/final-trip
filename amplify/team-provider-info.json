@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-finaltrip-dev-191144-authRole",
+      "UnauthRoleArn": "arn:aws:iam::841503689767:role/amplify-finaltrip-dev-191144-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::841503689767:role/amplify-finaltrip-dev-191144-authRole",
+      "Region": "eu-west-3",
+      "DeploymentBucketName": "amplify-finaltrip-dev-191144-deployment",
+      "UnauthRoleName": "amplify-finaltrip-dev-191144-unauthRole",
+      "StackName": "amplify-finaltrip-dev-191144",
+      "StackId": "arn:aws:cloudformation:eu-west-3:841503689767:stack/amplify-finaltrip-dev-191144/7b97c5b0-39fc-11ee-8c9f-0ef6d6535e52",
+      "AmplifyAppId": "d1je60s19tk8l4"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1je60s19tk8l4",
+          "type": "cicd"
+        }
+      },
+      "auth": {
+        "finaltripa5a0ee3a": {}
+      }
+    }
+  }
+}
